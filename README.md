@@ -1,0 +1,1 @@
+# AI-PLantdiseasedetection-and-fertilizer-recommendation
