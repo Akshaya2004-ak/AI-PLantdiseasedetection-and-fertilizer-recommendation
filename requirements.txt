@@ -1,0 +1,8 @@
+streamlit
+numpy
+opencv-python
+keras
+tensorflow
+google-generativeai
+protobuf==3.20.3
+Pillow
